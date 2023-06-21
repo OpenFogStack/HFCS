@@ -8,7 +8,7 @@ If you use this software in a publication, please cite it as:
 
 ### Text
 
-M. Kruber, T. Pfandzelter and D. Bermbach, **Efficient Exchange of Metadata Information in Geo-Distributed Fog Systems**, arXiv:2305.13385.
+M. Kruber, T. Pfandzelter and D. Bermbach, **Efficient Exchange of Metadata Information in Geo-Distributed Fog Systems**, arXiv:2305.13385, 2023.
 
 ### BibTeX
 
@@ -16,7 +16,7 @@ M. Kruber, T. Pfandzelter and D. Bermbach, **Efficient Exchange of Metadata Info
 @unpublished{kruber2023exchange,
     author = "Kruber, Marvin and Pfandzelter, Tobias and Bermbach, David",
     title = "Efficient Exchange of Metadata Information in Geo-Distributed Fog Systems",
-    month = apr,
+    month = may,
     year = 2023,
     Eprint = "2305.13385"
 }
